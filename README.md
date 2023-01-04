@@ -72,14 +72,21 @@ Analizar en que consiste el periodo y la frecuencia.
 
 4.	VIDEO
 
+https://www.youtube.com/watch?v=8m6pHaTBXGw
 
 5.	CONCLUSIONES
 
-Podemos concluir que con estos temas un poco más profundos de lo que lleva la materia de Fundamentos de Circuitos Electrónicos nos permite adentrarnos en poder trabajar con ondas sinusoidales, con la frecuencia, periodo y de los capacitadores, que las aplicaremos en proyectos que requieran este tipo de materiales.
+Podemos concluir que con estos temas un poco más profundos de lo que lleva la materia de Fundamentos de Circuitos Electrónicos nos permite adentrarnos en poder trabajar con ondas sinusoidales, calculando su periodo, amplitud, frecuencia, frecuecia angular y su fase y de los capacitadores tanto en serie como en paralelo, que los aplicaremos en proyectos que requieran este tipo de materiales.
 
 6.	Bibliografía
 
 Floyd, T. L. (2007). Principios de circuitos electrónicos (8.a ed.). Pearson.
+
+FiAsMat. (2019, 25 mayo). Ejercicios de Frecuencia, periodo, rapidez y longitud de onda [Vídeo]. YouTube. https://www.youtube.com/watch?v=bPIr9vzAxpU
+
+Federico Barisani. (2022, 16 abril). SEÑALES - Ejercicios Resueltos de Señales Senoidales [Vídeo]. YouTube. https://www.youtube.com/watch?v=mlk5-p8Yo8Y
+
+espiral ciencias. (2021, 11 marzo). 02. capacitores en serie y paralelo explicación + ejercicio [Vídeo]. YouTube. https://www.youtube.com/watch?v=hz3fxaXpdVc
 
 
 
